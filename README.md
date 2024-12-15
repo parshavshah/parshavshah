@@ -2,7 +2,7 @@
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=008715&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer" alt="Typing SVG" /></a> </h3>
 
 - 🌱 On the way of learning 🚀
-- 💬 Ask me about **NodeJS, Lambda, DynamoDB, React, AWS**
+- 💬 Ask me about **NodeJS, GoLang, Lambda, DynamoDB, React, AWS**
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
